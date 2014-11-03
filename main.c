@@ -9,3 +9,6 @@ int main(){
 	return 0;
 }
 
+int aaa(int a){
+    return a;
+}
