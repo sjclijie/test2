@@ -1,3 +1,4 @@
 <?php
 
-    echo "b.php";
+echo "aaa";
+echo "b.php";
